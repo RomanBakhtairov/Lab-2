@@ -1,0 +1,20 @@
+1. author:James Patterson title: The Midnight Club year: 1999   
+2. author:MICHAEL HOGAN title: Man Out of Time year: 2003   
+3. author:Myla Goldberg title: Bee Season year: 2000   
+4. author:CHINUA ACHEBE title: Things Fall Apart : A Novel year: 1994   
+5. author:Dan Simmons title: Hardcase year: 2001   
+6. author:Tom Wolfe title: Right Stuff year: 1983   
+7. author:Robert N. Charrette title: A Prince Among Men year: 1994   
+8. author:Alice Adams title: Superior Women year: 1993   
+9. author:Charles  M. Schulz title: A Charlie Brown Christmas year: 2001   
+10. author:Gustave Flaubert title: Madame Bovary (Fabula) year: 2002   
+11. author:Ofèlia Dracs title: Negra i consentida (Col¨lecció El Mirall) year: 1983   
+12. author:Philip Gourevitch title: We Wish to Inform You That Tomorrow We Will be Killed With Our Families: Stories from Rwanda year: 1999   
+13. author:Helen Fielding title: Bridget Jones's Diary year: 2001   
+14. author:China Mieville title: Perdido Street Station year: 2001   
+15. author:Bettyclare Moffatt title: Soulwork: Clearing the Mind, Opening the Heart, and Replenishing the Spirit year: 1994   
+16. author:Antonio Albanese title: Patapim e patapam (Le formiche) year: 1994   
+17. author:Italo Calvino title: The Baron in the Trees year: 1977   
+18. author:Stephen King title: The Dead Zone year: 2004   
+19. author:Gregory Frost title: Fitcher's Brides (Fairy Tales) year: 2003   
+20. author:Alexandre Dumas title: Three Musketeers (Wordsworth Classics) year: 1997   
